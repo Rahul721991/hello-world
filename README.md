@@ -1,4 +1,3 @@
 # hello-world
 First repo
-gfjhgk
-ghkhkjhk
+Hello there.. the world. :)
